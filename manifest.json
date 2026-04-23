@@ -1,0 +1,10 @@
+{
+  "name": "KD152 Horse Lookup",
+  "short_name": "KD152 Horses",
+  "description": "Kentucky Derby 152 horse info for Media Operations",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": []
+}
